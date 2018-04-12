@@ -1,1 +1,1 @@
-Talk for F# exchange 2016
+Talk for F# exchange 2018
