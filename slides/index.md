@@ -95,7 +95,7 @@ but they **do** recongise the value of software.
 
 ### Advertise F# features 
 
-* Pattern matching / Active Patters 
+* Pattern matching / Active Patterns 
 * Type providers 
 * Async 
 * Immutability 
